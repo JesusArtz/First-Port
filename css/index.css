@@ -58,12 +58,39 @@ body{
 .textos h1{
     font-size: 60px;
     margin-bottom: 0;
-    font-family: 'Dela Gothic One', cursive;
+    font-family: 'Rajdhani', sans-serif;
 }
 
 .textos p{
     font-size: 1.5rem;
     display: block;
     padding-bottom: 2rem;
+    font-family: 'Rajdhani', sans-serif;
 
+}
+
+.btngit{
+    position: relative;
+    z-index: 99;
+    display: inline-block;
+    padding: 10px 10px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 3px;
+    font-size: 60px;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 1ms;
+}
+
+.btntw{
+    position: relative;
+    z-index: 99;
+    display: inline-block;
+    padding: 10px 10px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 3px;
+    font-size: 60px;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 1ms;
 }
